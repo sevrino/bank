@@ -1,7 +1,7 @@
 # Bank 
 ![python](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue.svg)
 ![license](https://img.shields.io/github/license/sevrino/bank.svg)
-![ver](https://img.shields.io/badge/release-v1.2.0-blue.svg)
+![ver](https://img.shields.io/badge/release-v1.0.0-blue.svg)
 ![issue](https://img.shields.io/github/issues/sevrino/bank.svg)
 학교 축제용(미니 벼륙시장용) 뱅킹 시스템
 
