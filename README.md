@@ -16,7 +16,6 @@ MySQL 8.0 이상 설치
 ### pip로 필요 라이브러리 설치 
 ```
 pip3 install pymysql
-pip3 install Flask
 ```
 
 ## Usage
